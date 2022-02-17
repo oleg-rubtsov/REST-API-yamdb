@@ -1,12 +1,12 @@
 Учебный проект. База отзывов пользователей о фильмах, книгах и музыке. Работал в команде, отвечал за backend-разработку.
 
 ## Технологии:
--Python3
--Django2.2.16
--Django REST Framework
--SQLite3
--Simple-JWT
--GIT
+-Python3  
+-Django2.2.16  
+-Django REST Framework  
+-SQLite3  
+-Simple-JWT  
+-GIT  
 
 
 ### Как запустить проект:
@@ -55,6 +55,6 @@ python3 manage.py runserver
 
 # Created by:
 
-Oleg Rubtsov
-oleg.rubtsov99@gmail.com
-+7(925)669-06-11
+Oleg Rubtsov  
+oleg.rubtsov99@gmail.com  
++7(925)669-06-11  
